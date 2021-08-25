@@ -1,5 +1,6 @@
 import 'package:args/args.dart';
-import 'package:example/main.dart';
+
+import '../lib/main.dart';
 
 late ArgResults argResults;
 
